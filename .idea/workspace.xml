@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/AW1201001_Convenios%20_FrontendTest - copia" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Ejercicios Automatizacion/RetoSimuladorBanco" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Suramasivos-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/google-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/gradle-fun/1-gradle-fundamentals-m1-exercise-files/Gradle/init" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/restassured-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/PruebaAserciones" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/co.com.qvision.restassured" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/google" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/serenity-demos-master/cucumber-webtests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/serenity-demos-master/cucumber-webtests copy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/todomvc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Practices/vet-clinic" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Sura/Suramasivos-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Prodigious" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../google-suite-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../todomvc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Practices/PracticaSura" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Practices/serenity-cucumber-starter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Practices/todomvc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Practices/vet-clinic" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ProyectosCurso/serenity-articles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ProyectosCurso/serenity-articles/introduction-to-serenity-with-junit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ProyectosCurso/serenity-articles/introduction-to-serenity-with-junit/src/samples/etsy-tester" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ProyectosJava/learn-serenity" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../PruebasAutomatizacion/ Feliz Velasquez/PruebaFelixVA/PruebaQvision" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../PruebasAutomatizacion/Rafa Van Perez/com.prueba.examen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Sura/servicesconector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../serenity-cucumber-starter-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/cucumber-webtests" value="PREVIEW" />
+        <entry key="/Volumes/Galaxy/WeSura2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
